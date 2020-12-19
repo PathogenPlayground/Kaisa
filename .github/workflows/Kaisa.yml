@@ -1,7 +1,8 @@
 name: Kaisa
 on:
   push:
-    branches: [*]
+    branches:
+      - *
   pull_request:
   workflow_dispatch:
   release:
