@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import os
+
 import gha
 
 def get_environment_variable(name):
