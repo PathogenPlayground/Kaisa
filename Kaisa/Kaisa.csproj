@@ -8,7 +8,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>0.0.0-dev</Version>
     <Version Condition="'$(CiBuildVersion)' != ''">$(CiBuildVersion)</Version>
-    <Description>A C# parser for Windows `.lib` archive/library files.</Description>
+    <Description>A C# parser for Windows archive/library (.lib) files.</Description>
     <Authors>David Maas</Authors>
     <Copyright>Copyright David Maas</Copyright>
     <IncludeSymbols>true</IncludeSymbols>
